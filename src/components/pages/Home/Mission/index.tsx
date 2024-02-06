@@ -40,7 +40,7 @@ export const Mission: React.FC = () => {
           {gridItems.map((item, index) => (
             <div
               key={`missionItem_${index}`}
-              className="min-h-80 grid h-full w-full max-w-lg grid-cols-1 justify-center justify-items-center rounded-lg bg-white p-4 text-center text-neutral-900"
+              className="grid h-full  min-h-80 w-full max-w-lg grid-cols-1 justify-center justify-items-center rounded-lg bg-white p-4 text-center text-neutral-900"
             >
               {item.icon}
 
