@@ -15,10 +15,16 @@
       "@/assets/*": ["src/assets/*"],
       "@/components/*": ["src/components/*"],
       "@/hooks/*": ["src/hooks/*"],
+      "@/contexts/*": ["src/contexts/*"],
       "@/styles/*": ["src/styles/*"],
       "@/services/*": ["src/services/*"],
       "@/utils/*": ["src/utils/*"],
-      "@/types/*": ["src/types/*"]
+      "@/types/*": ["src/types/*"],
+      "@/library/*": ["src/library/*"],
+      "@/domains/*": ["src/domains/*"],
+      "@/global/*": ["src/global/*"],
+      "@/data/*": ["src/data/*"],
+      "@/constants/*": ["src/constants/*"]
     },
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -30,12 +36,6 @@
       }
     ]
   },
-  "typeRoots": [
-    "./src/@types",
-    "./custom_typings",
-    "./@types",
-    "./node_modules/@types"
-  ],
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
