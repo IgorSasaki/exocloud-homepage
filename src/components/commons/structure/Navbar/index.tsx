@@ -9,8 +9,8 @@ export const Navbar: React.FC = () => {
     <>
       <NavbarMobile />
 
-      <div className="fixed z-[999] hidden w-full items-center justify-center bg-neutral-950 px-8 py-4 text-neutral-50 transition-all md:px-12 lg:flex">
-        <section className=" flex w-full  max-w-7xl items-center justify-between ">
+      <nav className="fixed z-[999] hidden w-full items-center justify-center bg-neutral-950 px-8 py-4 text-neutral-50 transition-all md:px-12 lg:flex">
+        <div className=" flex w-full  max-w-7xl items-center justify-between ">
           <Logo />
 
           <article className="hidden lg:flex">
@@ -26,8 +26,8 @@ export const Navbar: React.FC = () => {
               </li> */}
             </ul>
           </article>
-        </section>
-      </div>
+        </div>
+      </nav>
     </>
   )
 }

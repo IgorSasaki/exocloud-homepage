@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
             <section className="flex items-center">
               <EmailIcon className="mr-4" />
               <a
-                href="mailto:contato@exocloudsolutions.com.br"
+                href="mailto:exocloudsolutions@exocloudsolutions.com.br"
                 className="transition-colors hover:brightness-125"
               >
                 exocloudsolutions@exocloudsolutions.com.br

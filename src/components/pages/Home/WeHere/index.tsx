@@ -10,7 +10,7 @@ export const WeHere: React.FC = () => {
 
   return (
     <>
-      <div className="hidden w-full items-center justify-center bg-neutral-50 py-12 lg:flex lg:px-4 lg:py-40"></div>
+      <div className="hidden w-full items-center justify-center bg-neutral-50 py-12 lg:flex lg:px-4 lg:py-40" />
 
       <div className="flex w-full items-center justify-center py-12 lg:bg-neutral-800 lg:px-4 lg:py-40">
         <section className="flex w-full max-w-2xl flex-col items-center justify-center lg:-mt-[410px] lg:max-w-6xl">
@@ -25,7 +25,7 @@ export const WeHere: React.FC = () => {
 
             <section className="absolute bottom-0 left-0 right-0 top-0">
               <article className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-r from-neutral-800 to-transparent text-neutral-50 lg:items-start lg:pl-20">
-                <h2 className="w-fit text-5xl font-bold">
+                <h2 className="ml-4 w-fit text-5xl font-bold lg:ml-0">
                   Procuramos Investidores
                 </h2>
               </article>
@@ -41,7 +41,7 @@ export const WeHere: React.FC = () => {
                 e conversar com você.
               </p>
 
-              <p className="text-mbl-h5 lg:text-dtk-text-mbl-h5 ml-8">
+              <p className="text-mbl-h5 lg:text-dtk-text-mbl-h5 ">
                 © ExoCloud Solutions
               </p>
             </article>

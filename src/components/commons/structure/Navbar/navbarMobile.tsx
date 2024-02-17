@@ -11,13 +11,13 @@ export const NavbarMobile: React.FC = () => {
 
   return (
     <>
-      <section className="fixed z-[999] flex w-full items-center justify-between bg-neutral-950 px-4 py-2 text-neutral-50 lg:hidden">
+      <nav className="fixed z-[999] flex w-full items-center justify-between bg-neutral-950 px-4 py-2 text-neutral-50 lg:hidden">
         <Logo />
 
         <button className=" flex h-full" onClick={() => setIsOpenMenu(true)}>
           <MenuIcon color="white" className="w-26" />
         </button>
-      </section>
+      </nav>
 
       <section
         style={{
