@@ -5,7 +5,7 @@ import { Button } from '@/components/commons/toolkit/Button'
 
 export const WeHere: React.FC = () => {
   const handleOpenEmailApp = () => {
-    window.open('mailto:contato@exocloudsolutions.com.br')
+    window.open('mailto:exocloudsolutions@exocloudsolutions.com.br')
   }
 
   return (
@@ -25,7 +25,9 @@ export const WeHere: React.FC = () => {
 
             <section className="absolute bottom-0 left-0 right-0 top-0">
               <article className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-r from-neutral-800 to-transparent text-neutral-50 lg:items-start lg:pl-20">
-                <h2 className="w-fit text-5xl font-bold">Contate-nos</h2>
+                <h2 className="w-fit text-5xl font-bold">
+                  Procuramos Investidores
+                </h2>
               </article>
             </section>
           </section>
@@ -33,10 +35,10 @@ export const WeHere: React.FC = () => {
           <section className="grid w-full grid-cols-1 items-center justify-items-center gap-4 bg-slate-50 px-4 py-8 lg:grid-cols-2 lg:p-8">
             <article>
               <p className="mb-4 lg:max-w-md">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam
-                architecto mollitia tempora quas alias aperiam animi id dolor
-                incidunt molestiae quod quibusdam, tenetur inventore delectus,
-                facilis explicabo, pariatur aut consequatur!
+                Estamos procurando investidores para nos ajudar com as despesas
+                iniciais do desenvolvimento. Tem interesse e quer saber mais,
+                nos mande um email, ficaremos felizes em marcar uma apresentação
+                e conversar com você.
               </p>
 
               <p className="text-mbl-h5 lg:text-dtk-text-mbl-h5 ml-8">
@@ -45,7 +47,7 @@ export const WeHere: React.FC = () => {
             </article>
 
             <Button onClick={handleOpenEmailApp}>
-              contato@exocloudsolutions.com.br
+              exocloudsolutions@exocloudsolutions.com.br
             </Button>
           </section>
         </section>

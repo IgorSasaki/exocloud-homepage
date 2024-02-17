@@ -25,7 +25,7 @@ export const Footer: React.FC = () => {
                 href="mailto:contato@exocloudsolutions.com.br"
                 className="transition-colors hover:brightness-125"
               >
-                contato@exocloudsolutions.com.br
+                exocloudsolutions@exocloudsolutions.com.br
               </a>
             </section>
           </div>

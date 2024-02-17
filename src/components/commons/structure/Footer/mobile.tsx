@@ -18,7 +18,7 @@ export const FooterMobile: React.FC = () => {
           <EmailIcon className="mr-4" />
 
           <a href="mailto:contato@exocloudsolutions.com.br">
-            contato@exocloudsolutions.com.br
+            exocloudsolutions@exocloudsolutions.com.br
           </a>
         </section>
       </div>
