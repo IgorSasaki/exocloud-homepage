@@ -19,7 +19,7 @@ export const Header: React.FC = () => {
 
         <section className="col-span-5 flex flex-col items-center justify-center pb-12 pt-10 text-center lg:items-start lg:pt-12 lg:text-left">
           <h1 className="mb-8 text-xl font-bold lg:text-4xl">
-            Seja bem-vindo a ExoCloud Solutions?
+            Seja bem-vindo a <br /> ExoCloud Solutions
           </h1>
 
           <p>
