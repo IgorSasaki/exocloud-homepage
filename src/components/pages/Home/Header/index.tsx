@@ -19,20 +19,27 @@ export const Header: React.FC = () => {
 
         <section className="col-span-5 flex flex-col items-center justify-center pb-12 pt-10 text-center lg:items-start lg:pt-12 lg:text-left">
           <h1 className="mb-8 text-xl font-bold lg:text-4xl">
-            Vamos falar um pouco sobre a ExoCloud Solutions?
+            Seja bem-vindo a ExoCloud Solutions?
           </h1>
 
           <p>
-            O nosso projeto começou como uma Startup voltado para tecnologias
-            cloud, mas para a sorte do nosso destino, o nosso fundador teve uma
-            ideia de projeto um pouco diferente. Assim nasceu o projeto Conecta
-            Minha Saúde, que após muita ideia e estruturar bem o que queria, ele
-            foi atrás de convidar pessoas que topassem seguir essa ideia, um
-            ideal e um propósito único. Mudar o nosso padrão de gestão de saúde
-            pessoal. <br />
+            Nascida do sonho de criar uma empresa que fosse uma revolução no
+            mercado de soluções de sistema,a ExoCloud Solutions tem como
+            principal fundamento ajudar nossos colaboradores e clientes a
+            transformarem a realidade ao seu redor, facilitar o dia-a-dia e
+            democratizar o acesso à tecnologia <br />
             <br />
-            Deste modo, o Fundador e CEO Bruno A. S. Guimarães começou a
-            ExoCloud Solutions.
+            Com esse valor em mente, direcionamos a atuação para a área da
+            saúde, que ainda pode se beneficiar muito com os avanços e as
+            facilidades tecnológicas. <br />
+            <br />
+            Nosso principal projeto, o Conecta Minha Saúde, cujo o principal
+            objetivo é mudar o padrão da gestão da saúde pessoal com a criação
+            de uma estrutura completa e robusta para prestadores de serviço da
+            área da saúde e para a população. <br />
+            <br />
+            Conheça mais sobre ele!
+            <br />
           </p>
         </section>
       </div>

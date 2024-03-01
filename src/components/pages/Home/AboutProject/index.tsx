@@ -21,12 +21,16 @@ export const AboutProject: React.FC = () => {
           </h3>
 
           <p className="text-base font-normal">
-            O projeto do Conecta Minha Saúde é uma ideia de um sistema robusto e
-            eficaz para prestadores de serviço da área da saúde e para a
-            população, um app expecífico que vai trabalhar em conjunto com o
-            sistema. Exato, o nosso projeto consiste em 2 tipos de softwares, um
-            sistema web para os prestadores de serviço e um app para a
-            população.
+            O projeto do Conecta Minha Saúde é o principal produto da ExoCloud
+            Solutions, onde o objetivo é criar um sistema de gerenciamento para
+            prestadores de serviço da área da saúde e um aplicativo voltado para
+            a população, de forma que conversem entre si. Sendo assim, o
+            profissional da área da saúde terá acesso as informações do
+            paciente, enquanto o paciente poderá fazer um acompanhamento da sua
+            saúde, horário de medicamentos e demais cuidados médicos. <br />
+            <br />O principal objetivo é otimizar o controle profissional,
+            aumentar a retenção dos pacientes e a adoção do tratamento
+            medicamentoso ou exames com mais facilidade.
             {/* <br />
             <br />
             Quer saber mais? Da uma olhada na sessão a seguir! */}

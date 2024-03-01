@@ -26,7 +26,7 @@ export const WeHere: React.FC = () => {
             <section className="absolute bottom-0 left-0 right-0 top-0">
               <article className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-r from-neutral-800 to-transparent text-neutral-50 lg:items-start lg:pl-20">
                 <h2 className="ml-4 w-fit text-5xl font-bold lg:ml-0">
-                  Procuramos Investidores
+                  Seja um Investidor do Conecta Minha Saúde!
                 </h2>
               </article>
             </section>
@@ -35,10 +35,10 @@ export const WeHere: React.FC = () => {
           <section className="grid w-full grid-cols-1 items-center justify-items-center gap-4 bg-slate-50 px-4 py-8 lg:grid-cols-2 lg:p-8">
             <article>
               <p className="mb-4 lg:max-w-md">
-                Estamos procurando investidores para nos ajudar com as despesas
-                iniciais do desenvolvimento. Tem interesse e quer saber mais,
-                nos mande um email, ficaremos felizes em marcar uma apresentação
-                e conversar com você.
+                Com o Conecta Minha Saúde sua rotina no consultório e o
+                relacionamento com o paciente se tornam muito mais eficientes.
+                Estamos com uma lista de investidores aberta! Entre em contato
+                conosco pelo nosso e-mail.
               </p>
 
               <p className="text-mbl-h5 lg:text-dtk-text-mbl-h5 ">
