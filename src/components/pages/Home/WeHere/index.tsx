@@ -26,7 +26,7 @@ export const WeHere: React.FC = () => {
             <section className="absolute bottom-0 left-0 right-0 top-0">
               <article className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-r from-neutral-800 to-transparent text-neutral-50 lg:items-start lg:pl-20">
                 <h2 className="ml-4 w-fit text-5xl font-bold lg:ml-0">
-                  Seja um Investidor do Conecta Minha Saúde!
+                  Seja um investidor do Conecta Minha Saúde!
                 </h2>
               </article>
             </section>

@@ -26,14 +26,14 @@ export const Header: React.FC = () => {
             Nascida do sonho de criar uma empresa que fosse uma revolução no
             mercado de soluções de sistema,a ExoCloud Solutions tem como
             principal fundamento ajudar nossos colaboradores e clientes a
-            transformarem a realidade ao seu redor, facilitar o dia-a-dia e
-            democratizar o acesso à tecnologia <br />
+            transformarem a realidade ao seu redor, facilitar o dia a dia e
+            democratizar o acesso à tecnologia. <br />
             <br />
             Com esse valor em mente, direcionamos a atuação para a área da
             saúde, que ainda pode se beneficiar muito com os avanços e as
             facilidades tecnológicas. <br />
             <br />
-            Nosso principal projeto, o Conecta Minha Saúde, cujo o principal
+            Nosso principal projeto, o Conecta Minha Saúde, cujo principal
             objetivo é mudar o padrão da gestão da saúde pessoal com a criação
             de uma estrutura completa e robusta para prestadores de serviço da
             área da saúde e para a população. <br />
